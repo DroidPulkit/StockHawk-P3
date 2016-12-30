@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Stock Hawk</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Credits</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+
+    <!--app strings-->
+    <string name="no_such_stock_found">No such stock exists</string>
+    <string name="stock_already_present">This stock is already saved!</string>
+    <string name="error_fetching_data">Couldn\'t fetch data.\nPlease try again later.</string>
+    <string name="Pulkit">Created by Pulkit Kumar</string>
+
+    <!--keys and other non-translatable strings-->
+    <string name="string_bundle_extra" translatable="false">DATA_INFO</string>
+    <string name="key_name" translatable="false">NAME</string>
+    <string name="key_last_price" translatable="false">LAST_PRICE</string>
+    <string name="key_change" translatable="false">CHANGE</string>
+    <string name="key_change_percent" translatable="false">CHANGE_PERCENT</string>
+    <string name="key_high" translatable="false">HIGH</string>
+    <string name="key_low" translatable="false">LOW</string>
+    <string name="key_open" translatable="false">OPEN</string>
+    <string name="key_symbol" translatable="false">SYMBOL</string>
+
+    <!--description strings-->
+    <string name="webview_content_description">Graphical representation of the stocks of selected company</string>
+    <string name="floating_button_content_description">Button to add new stocks based on the requirements</string>
+
+    <!--textview text strings in fragment_detail_extra_info.xml-->
+    <string name="name">Name</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="open">Open</string>
+    <string name="ok">OK</string>
+    <string name="empty_forecast_list">No data available</string>
+    <string name="symbol_label">LABEL</string>
+
+</resources>
